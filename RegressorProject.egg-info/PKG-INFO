@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: RegressorProject
+Version: 0.0.1
+Author: Manish
+Author-email: bishtmanish713@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: Flask
+Requires-Dist: ipykernel
