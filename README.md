@@ -8,7 +8,7 @@ conda activate venv/
 ```
 
 
-## install all necessary libraries
+## install all necessary libraries.
 ```
 pip install -r requirements.txt
 ```
